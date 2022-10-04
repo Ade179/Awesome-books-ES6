@@ -12,7 +12,7 @@
 - Linters
 
 
-### Go live 
+### Go live :  https://ade179.github.io/Awesome-books-ES6/
 ## Authors
 
 👤 **Author2**
