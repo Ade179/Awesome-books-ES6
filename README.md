@@ -2,7 +2,7 @@
 
 # Awesome Books ES6
 
-> This project helps the mastery of objects in Javascript
+> This project helps the mastery of objects in Javascript. It is refacotred into classes while retaining it's functionalities to add and remove book at will by the user.
 
 
 ## Built With
